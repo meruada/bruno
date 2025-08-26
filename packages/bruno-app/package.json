@@ -1,8 +1,9 @@
 {
-  "name": "@usebruno/app",
-  "version": "2.0.0",
+  "name": "@rapidrest/app",
+  "version": "1.0.0",
   "license": "MIT",
   "private": true,
+  "description": "RapidREST Enterprise REST Client",
   "scripts": {
     "dev": "rsbuild dev",
     "build": "rsbuild build -m production",

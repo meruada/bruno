@@ -32,8 +32,7 @@ function Main({ children }) {
         <strong class="font-bold">ERROR:</strong>
         <span className="block inline ml-1">"ipcRenderer" not found in window object.</span>
         <div>
-          You most likely opened Bruno inside your web browser. Bruno only works within Electron, you can start Electron
-          in an adjacent terminal using "npm run dev:electron".
+          You most likely opened RapidREST inside your web browser. RapidREST works both in web browsers and within Electron.
         </div>
       </div>
     );
